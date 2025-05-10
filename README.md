@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+不开 long long 见祖宗！
+
+勤能补拙，菜就多练。
+
+我的博客园：[wing_heart(:](https://www.cnblogs.com/wingheart)
+
+洛谷用户名：liyixin0514
+
 <!--
 **wing-heart-awa/wing-heart-awa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
